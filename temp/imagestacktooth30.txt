@@ -1,0 +1,6 @@
+c:\dhti\element\images\30\Permanent\Unerrupted\40W\T30_Main_Tooth
+c:\dhti\element\images\30\Permanent\Unerrupted\40W\T30_TNO
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_radiantmask
+c:\dhti\element\images\\grids\grid_cariescode_1_flippednumbermask

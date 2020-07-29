@@ -1,0 +1,53 @@
+The raster graphics are located at \\benjamin\programming\development\imagework
+
+There is a JSON file at this root - ImageWorkStep2.json (You need to remove the text line 
+at the top of the file first)
+
+We will be using the information from this JSON file to process the actual graphics.
+
+The intent is to convert the raster image to vector (SVG) using the InkScape program.
+
+The records marked ismask: TRUE are going to be converted to SVG and the raster portion removed.
+
+The records marked ismask: FALSE are going to be converted to SVG and the vector portion removed.
+
+There are several youtube videos on how to convert raster to vector using inkscape.
+Here is one: https://www.youtube.com/watch?v=R6dgW5J0Osw
+
+When you do the Path Trace Bitmap, you will need to play with the settings to get an image
+that is similar to the original.  It appears that using 2 colors for the masks is acceptable.
+
+The hope was that we could do the inkscape process programatically using automation.
+
+The final goal is not to have svg files, but to have the portion in the g tag as a text field 
+in the database.  I created a key to identify each graphic and that should be the key for the
+svg.  Nate mentioned the GraphicResource entity and I haven't had a chance to check it out
+just yet. That is the location for these SVG portions which will be translated, transformed, scaled,
+rotated, colored then stacked to form a complete tooth image.
+
+The images that are not masks will need to be translated as well, so that we can have the svg
+as an encoded image so that it can be treated as text as well.
+
+We will also need to identify the images that are not mirror'ed such as tooth number images, so
+that we can perform special handling when rendering the chart.  Otherwise, mirroring will determine
+the original source
+
+Here is the standard mouth map (facing the patient - looking into the mouth)
+
+permanent    upper   right side   1  2  3  4  5  6  7  8      9 10 11 12 13 14 15 16    left side
+  primary                                  A  B  C  D  E      F  G  H  I  J
+  
+  primary                                  T  S  R  Q  P      O  N  M  L  K
+permanent    lower   right side  32 31 30 29 28 27 26 25     24 23 22 21 20 19 18 17    left side
+
+                              distal <--                mesial            --> distal
+ 
+slot number is equal to the permanent tooth number
+
+The processing will generally be performed on the images for slots 1-8 and 25-32  (right side).
+
+When presenting a tooth from the left side, the mirror slot image will be used and the image will
+be dynamically flipped horizontally.
+
+Vertical mirroring is impossible as upper and lower teeth are vastly different.
+

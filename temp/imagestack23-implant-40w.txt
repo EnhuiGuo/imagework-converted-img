@@ -1,0 +1,83 @@
+I23_b_b_1b.png
+I23_b_b_1p.png
+I23_b_b_2b.png
+I23_b_b_2p.png
+I23_b_b_3b.png
+I23_b_b_3p.png
+I23_b_db_1b.png
+I23_b_db_1p.png
+I23_b_db_2b.png
+I23_b_db_2p.png
+I23_b_db_3b.png
+I23_b_db_3p.png
+I23_b_mb_1b.png
+I23_b_mb_1p.png
+I23_b_mb_2b .png
+I23_b_mb_2p .png
+I23_b_mb_3b.png
+I23_b_mb_3p.png
+I23_l_dl_1b.png
+I23_l_dl_1p.png
+I23_l_dl_2b .png
+I23_l_dl_2p .png
+I23_l_dl_3b.png
+I23_l_dl_3p.png
+I23_l_l_1b.png
+I23_l_l_1p.png
+I23_l_l_2b.png
+I23_l_l_2p.png
+I23_l_l_3b.png
+I23_l_l_3p.png
+I23_l_ml_1b.png
+I23_l_ml_1p.png
+I23_l_ml_2b.png
+I23_l_ml_2p.png
+I23_l_ml_3b.png
+I23_l_ml_3p.png
+I23_MainMask_TNum_23.png
+I23_MainMask_TNum_23_Intl.png
+I23_MainMask_TNum_26.png
+I23_MainMask_TNum_26_Intl.png
+I23_Main_Tooth.bmp
+I23_Main_Tooth.png
+I23_Main_Tooth_Perio.bmp
+I23_Main_Tooth_Perio.png
+I23_Note.png
+I23_PlaceHolder.png
+I23_Treatment.png
+Iooth_23_b_b_1b.png
+Iooth_23_b_b_1p.png
+Iooth_23_b_b_2b.png
+Iooth_23_b_b_2p.png
+Iooth_23_b_b_3b.png
+Iooth_23_b_b_3p.png
+Iooth_23_b_db_1b.png
+Iooth_23_b_db_1p.png
+Iooth_23_b_db_2b.png
+Iooth_23_b_db_2p.png
+Iooth_23_b_db_3b.png
+Iooth_23_b_db_3p.png
+Iooth_23_b_mb_1b.png
+Iooth_23_b_mb_1p.png
+Iooth_23_b_mb_2b .png
+Iooth_23_b_mb_2p .png
+Iooth_23_b_mb_3b.png
+Iooth_23_b_mb_3p.png
+Iooth_23_l_dl_1b.png
+Iooth_23_l_dl_1p.png
+Iooth_23_l_dl_2b .png
+Iooth_23_l_dl_2p .png
+Iooth_23_l_dl_3b.png
+Iooth_23_l_dl_3p.png
+Iooth_23_l_l_1b.png
+Iooth_23_l_l_1p.png
+Iooth_23_l_l_2b.png
+Iooth_23_l_l_2p.png
+Iooth_23_l_l_3b.png
+Iooth_23_l_l_3p.png
+Iooth_23_l_ml_1b.png
+Iooth_23_l_ml_1p.png
+Iooth_23_l_ml_2b.png
+Iooth_23_l_ml_2p.png
+Iooth_23_l_ml_3b.png
+Iooth_23_l_ml_3p.png

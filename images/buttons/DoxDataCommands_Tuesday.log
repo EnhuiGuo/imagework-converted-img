@@ -1,0 +1,21 @@
+NONE	05/29/2018 11:35:50.86 AM	__________________________________________________
+Info	05/29/2018 11:35:50.86 AM	Silent="Y"
+Info	05/29/2018 11:35:50.86 AM	Log path="Output.txt"
+Info	05/29/2018 11:35:50.86 AM	IsUtility="N"
+Info	05/29/2018 11:35:50.86 AM	InputFile path=""
+Info	05/29/2018 11:35:50.86 AM	OutputFile path=""
+Info	05/29/2018 11:35:50.87 AM	ManualLogin="N"
+Info	05/29/2018 11:35:50.87 AM	DBLegacyConFirst="Y"
+Info	05/29/2018 11:35:50.87 AM	WaitForUser="False"
+Info	05/29/2018 11:35:50.99 AM	Verifying DB Connection . . .
+Info	05/29/2018 11:35:51.26 AM	DB Connection="Success! Legacy"
+Info	05/29/2018 11:35:51.26 AM	Verifying Login . . .
+Info	05/29/2018 11:35:51.64 AM	Server="ORION"
+Info	05/29/2018 11:35:51.64 AM	Database File Path="F:\INTERBASEDB\HINESAFTERPOSTSCCONVERT.GDB"
+Info	05/29/2018 11:35:51.64 AM	Logged-In as UserId="7"
+Info	05/29/2018 11:35:51.67 AM	Class="WS_PATIENTS_Row"
+Info	05/29/2018 11:35:51.67 AM	ConstructorArgs="531302"
+Info	05/29/2018 11:35:51.67 AM	Method="MakeEducationResourcesAvailableOnline"
+Info	05/29/2018 11:35:51.67 AM	Method will be passed nothing.
+Info	05/29/2018 11:35:52.52 AM	Could not determine Method Results.
+Info	05/29/2018 11:35:52.52 AM	Failed to Process

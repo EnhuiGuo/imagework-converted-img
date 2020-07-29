@@ -1,0 +1,10 @@
+c:\dhti\element\images\07\Primary\40W\P07_Main_Tooth
+c:\dhti\element\images\07\Primary\40W\P07_TNO
+c:\dhti\element\images\07\Primary\40W\P07_Surf_D_Reg
+c:\dhti\element\images\07\Primary\40W\P07_Surf_B_Reg
+PNG File: c:\dhti\element\images\07\Primary\40W\P07_Watch_B.png, or Root File: c:\dhti\element\images\07\Primary\40W\P07_Watch_B.png
+PNG File: c:\dhti\element\images\07\Primary\40W\P07_Watch_D.png, or Root File: c:\dhti\element\images\07\Primary\40W\P07_Watch_D.png
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_radiantmask
+c:\dhti\element\images\\grids\grid_cariescode_3_flippednumbermask

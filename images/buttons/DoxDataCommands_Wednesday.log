@@ -1,0 +1,21 @@
+NONE	01/10/2018 02:18:02.43 PM	__________________________________________________
+Info	01/10/2018 02:18:02.43 PM	Silent="Y"
+Info	01/10/2018 02:18:02.43 PM	Log path="Output.txt"
+Info	01/10/2018 02:18:02.43 PM	IsUtility="N"
+Info	01/10/2018 02:18:02.43 PM	InputFile path=""
+Info	01/10/2018 02:18:02.43 PM	OutputFile path=""
+Info	01/10/2018 02:18:02.43 PM	ManualLogin="N"
+Info	01/10/2018 02:18:02.43 PM	DBLegacyConFirst="Y"
+Info	01/10/2018 02:18:02.43 PM	WaitForUser="False"
+Info	01/10/2018 02:18:02.63 PM	Verifying DB Connection . . .
+Info	01/10/2018 02:18:02.99 PM	DB Connection="Success! Legacy"
+Info	01/10/2018 02:18:02.99 PM	Verifying Login . . .
+Info	01/10/2018 02:18:03.44 PM	Server="KSBNEIL"
+Info	01/10/2018 02:18:03.44 PM	Database File Path="C:\INTERBASEDB\MAURER.GDB"
+Info	01/10/2018 02:18:03.44 PM	Logged-In as UserId="7"
+Info	01/10/2018 02:18:03.47 PM	Class="WS_PATIENTS_Row"
+Info	01/10/2018 02:18:03.47 PM	ConstructorArgs="327402"
+Info	01/10/2018 02:18:03.48 PM	Method="MakeEducationResourcesAvailableOnline"
+Info	01/10/2018 02:18:03.48 PM	Method will be passed nothing.
+Info	01/10/2018 02:18:04.97 PM	Could not determine Method Results.
+Info	01/10/2018 02:18:04.97 PM	Failed to Process

@@ -1,0 +1,16 @@
+40w
+80w
+Bridge
+Denture
+Implant
+Permanent
+Pontic
+Primary
+T21_MainMask_BandedSpaceMaint_L-R.bmp
+T21_MainMask_BandedSpaceMaint_L.bmp
+T21_MainMask_BandedSpaceMaint_R.bmp
+T21_MainMask_SpaceMaint_L.bmp
+T21_MainMask_SpaceMaint_R.bmp
+T21_MainMask_SpaceWire.bmp
+T21_Main_Tooth_Missing_CG.bmp
+Tooth_21-L_Main_Cut_Adj80.psd

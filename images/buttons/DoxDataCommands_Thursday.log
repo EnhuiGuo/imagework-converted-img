@@ -1,0 +1,21 @@
+NONE	05/18/2017 09:41:17.90 AM	__________________________________________________
+Info	05/18/2017 09:41:17.90 AM	Silent="Y"
+Info	05/18/2017 09:41:17.90 AM	Log path="Output.txt"
+Info	05/18/2017 09:41:17.90 AM	IsUtility="N"
+Info	05/18/2017 09:41:17.90 AM	InputFile path=""
+Info	05/18/2017 09:41:17.90 AM	OutputFile path=""
+Info	05/18/2017 09:41:17.90 AM	ManualLogin="N"
+Info	05/18/2017 09:41:17.90 AM	DBLegacyConFirst="Y"
+Info	05/18/2017 09:41:17.90 AM	WaitForUser="False"
+Info	05/18/2017 09:41:18.05 AM	Verifying DB Connection . . .
+Info	05/18/2017 09:41:18.51 AM	DB Connection="Success! Legacy"
+Info	05/18/2017 09:41:18.51 AM	Verifying Login . . .
+Info	05/18/2017 09:41:18.90 AM	Server="ORION"
+Info	05/18/2017 09:41:18.90 AM	Database File Path="F:\INTERBASEDB\SYLVANIA.GDB"
+Info	05/18/2017 09:41:18.90 AM	Logged-In as UserId="0"
+Info	05/18/2017 09:41:18.92 AM	Class="WS_PATIENTS_Row"
+Info	05/18/2017 09:41:18.92 AM	ConstructorArgs="66435502"
+Info	05/18/2017 09:41:18.93 AM	Method="MakeEducationResourcesAvailableOnline"
+Info	05/18/2017 09:41:18.93 AM	Method will be passed nothing.
+Info	05/18/2017 09:41:20.26 AM	Could not determine Method Results.
+Info	05/18/2017 09:41:20.26 AM	Failed to Process

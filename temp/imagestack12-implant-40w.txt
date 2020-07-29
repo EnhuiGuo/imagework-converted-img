@@ -1,0 +1,83 @@
+I12_b_b_1b.png
+I12_b_b_1p.png
+I12_b_b_2b.png
+I12_b_b_2p.png
+I12_b_b_3b.png
+I12_b_b_3p.png
+I12_b_db_1b.png
+I12_b_db_1p.png
+I12_b_db_2b .png
+I12_b_db_2p .png
+I12_b_db_3b.png
+I12_b_db_3p.png
+I12_b_mb_1b.png
+I12_b_mb_1p.png
+I12_b_mb_2b.png
+I12_b_mb_2p.png
+I12_b_mb_3b.png
+I12_b_mb_3p.png
+I12_L_dL_1b.png
+I12_L_dL_1p.png
+I12_L_dL_2b.png
+I12_L_dL_2p.png
+I12_L_dL_3b.png
+I12_L_dL_3p.png
+I12_L_L_1b.png
+I12_L_L_1p.png
+I12_L_L_2b.png
+I12_L_L_2p.png
+I12_L_L_3b.png
+I12_L_L_3p.png
+I12_L_mL_1b.png
+I12_L_mL_1p.png
+I12_L_mL_2b .png
+I12_L_mL_2p .png
+I12_L_mL_3b.png
+I12_L_mL_3p.png
+I12_MainMask_TNum_12.png
+I12_MainMask_TNum_12_Intl.png
+I12_MainMask_TNum_5.png
+I12_MainMask_TNum_5_Intl.png
+I12_Main_Tooth.bmp
+I12_Main_Tooth.png
+I12_Main_Tooth_Perio.bmp
+I12_Main_Tooth_Perio.png
+I12_Note.png
+I12_PlaceHolder.png
+I12_Treatment.png
+Iooth_12_b_b_1b.png
+Iooth_12_b_b_1p.png
+Iooth_12_b_b_2b.png
+Iooth_12_b_b_2p.png
+Iooth_12_b_b_3b.png
+Iooth_12_b_b_3p.png
+Iooth_12_b_db_1b.png
+Iooth_12_b_db_1p.png
+Iooth_12_b_db_2b .png
+Iooth_12_b_db_2p .png
+Iooth_12_b_db_3b.png
+Iooth_12_b_db_3p.png
+Iooth_12_b_mb_1b.png
+Iooth_12_b_mb_1p.png
+Iooth_12_b_mb_2b.png
+Iooth_12_b_mb_2p.png
+Iooth_12_b_mb_3b.png
+Iooth_12_b_mb_3p.png
+Iooth_12_L_dL_1b.png
+Iooth_12_L_dL_1p.png
+Iooth_12_L_dL_2b.png
+Iooth_12_L_dL_2p.png
+Iooth_12_L_dL_3b.png
+Iooth_12_L_dL_3p.png
+Iooth_12_L_L_1b.png
+Iooth_12_L_L_1p.png
+Iooth_12_L_L_2b.png
+Iooth_12_L_L_2p.png
+Iooth_12_L_L_3b.png
+Iooth_12_L_L_3p.png
+Iooth_12_L_mL_1b.png
+Iooth_12_L_mL_1p.png
+Iooth_12_L_mL_2b .png
+Iooth_12_L_mL_2p .png
+Iooth_12_L_mL_3b.png
+Iooth_12_L_mL_3p.png

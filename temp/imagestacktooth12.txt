@@ -1,0 +1,10 @@
+c:\dhti\element\images\12\Primary\40W\P12_Main_Tooth
+c:\dhti\element\images\12\Primary\40W\P12_TNO
+c:\dhti\element\images\12\Primary\40W\P12_Surf_O_AND_D_Reg
+c:\dhti\element\images\HatchX
+c:\dhti\element\images\12\Primary\40W\P12_Surf_O_AND_M_Reg
+c:\dhti\element\images\HatchX
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_radiantmask
+c:\dhti\element\images\\grids\grid_cariescode_1_numbermask

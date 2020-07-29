@@ -1,0 +1,83 @@
+I28_b_b_1b.png
+I28_b_b_1p.png
+I28_b_b_2b.png
+I28_b_b_2p.png
+I28_b_b_3b.png
+I28_b_b_3p.png
+I28_b_db_1b.png
+I28_b_db_1p.png
+I28_b_db_2b.png
+I28_b_db_2p.png
+I28_b_db_3b.png
+I28_b_db_3p.png
+I28_b_mb_1b.png
+I28_b_mb_1p.png
+I28_b_mb_2b .png
+I28_b_mb_2p .png
+I28_b_mb_3b.png
+I28_b_mb_3p.png
+I28_l_dl_1b.png
+I28_l_dl_1p.png
+I28_l_dl_2b .png
+I28_l_dl_2p .png
+I28_l_dl_3b.png
+I28_l_dl_3p.png
+I28_l_l_1b.png
+I28_l_l_1p.png
+I28_l_l_2b.png
+I28_l_l_2p.png
+I28_l_l_3b.png
+I28_l_l_3p.png
+I28_l_ml_1b.png
+I28_l_ml_1p.png
+I28_l_ml_2b.png
+I28_l_ml_2p.png
+I28_l_ml_3b.png
+I28_l_ml_3p.png
+I28_MainMask_TNum_21.png
+I28_MainMask_TNum_21_Intl.png
+I28_MainMask_TNum_28.png
+I28_MainMask_TNum_28_Intl.png
+I28_Main_Tooth.bmp
+I28_Main_Tooth.png
+I28_Main_Tooth_Perio.bmp
+I28_Main_Tooth_Perio.png
+I28_Note.png
+I28_PlaceHolder.png
+I28_Treatment.png
+Iooth_28_b_b_1b.png
+Iooth_28_b_b_1p.png
+Iooth_28_b_b_2b.png
+Iooth_28_b_b_2p.png
+Iooth_28_b_b_3b.png
+Iooth_28_b_b_3p.png
+Iooth_28_b_db_1b.png
+Iooth_28_b_db_1p.png
+Iooth_28_b_db_2b.png
+Iooth_28_b_db_2p.png
+Iooth_28_b_db_3b.png
+Iooth_28_b_db_3p.png
+Iooth_28_b_mb_1b.png
+Iooth_28_b_mb_1p.png
+Iooth_28_b_mb_2b .png
+Iooth_28_b_mb_2p .png
+Iooth_28_b_mb_3b.png
+Iooth_28_b_mb_3p.png
+Iooth_28_l_dl_1b.png
+Iooth_28_l_dl_1p.png
+Iooth_28_l_dl_2b .png
+Iooth_28_l_dl_2p .png
+Iooth_28_l_dl_3b.png
+Iooth_28_l_dl_3p.png
+Iooth_28_l_l_1b.png
+Iooth_28_l_l_1p.png
+Iooth_28_l_l_2b.png
+Iooth_28_l_l_2p.png
+Iooth_28_l_l_3b.png
+Iooth_28_l_l_3p.png
+Iooth_28_l_ml_1b.png
+Iooth_28_l_ml_1p.png
+Iooth_28_l_ml_2b.png
+Iooth_28_l_ml_2p.png
+Iooth_28_l_ml_3b.png
+Iooth_28_l_ml_3p.png

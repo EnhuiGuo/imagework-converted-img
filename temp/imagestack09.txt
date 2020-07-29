@@ -1,0 +1,17 @@
+40w
+80w
+Bridge
+Copy of Permanent
+Denture
+Implant
+Permanent
+Pontic
+Primary
+T09_MainMask_BandedSpaceMaint_L-R.bmp
+T09_MainMask_BandedSpaceMaint_L.bmp
+T09_MainMask_BandedSpaceMaint_R.bmp
+T09_MainMask_SpaceMaint_L.bmp
+T09_MainMask_SpaceMaint_R.bmp
+T09_MainMask_SpaceWire.bmp
+T09_Main_Tooth_Missing_CG.bmp
+Tooth_F-9_Main_Cut_Adj80.psd

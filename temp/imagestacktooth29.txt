@@ -1,0 +1,6 @@
+c:\dhti\element\images\29\Primary\40W\P29_Main_Tooth
+c:\dhti\element\images\29\Primary\40W\P29_TNO
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_radiantmask
+c:\dhti\element\images\\grids\grid_cariescode_1_flippednumbermask

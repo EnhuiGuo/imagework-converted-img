@@ -1,0 +1,9 @@
+c:\dhti\element\images\11\Primary\40W\P11_Main_Tooth
+c:\dhti\element\images\11\Primary\40W\P11_TNO
+PNG File: c:\dhti\element\images\11\Primary\40W\P11_Watch_B.png, or Root File: c:\dhti\element\images\11\Primary\40W\P11_Watch_B.png
+PNG File: c:\dhti\element\images\11\Primary\40W\P11_Watch_O.png, or Root File: c:\dhti\element\images\11\Primary\40W\P11_Watch_O.png
+PNG File: c:\dhti\element\images\11\Primary\40W\P11_Watch_M.png, or Root File: c:\dhti\element\images\11\Primary\40W\P11_Watch_M.png
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_circlemask
+c:\dhti\element\images\\grids\grid_cariescode_radiantmask
+c:\dhti\element\images\\grids\grid_cariescode_2_numbermask
